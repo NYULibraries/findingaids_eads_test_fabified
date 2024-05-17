@@ -47,7 +47,7 @@ workflows:
   deploy:
     jobs:
       # - deploy-prod
-      - deploy-dev:
-          filters:
-            branches:
-              only: main 
+      - deploy-dev
+        #    filters:
+        #      branches:
+        #        only: main 
