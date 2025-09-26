@@ -1,3 +1,7 @@
+# $${\color{red}THIS\ REPO\ IS\ OBSOLETE\ (ARCHIVED\ ON\ 9/26/25)}$$
+
+---
+
 # Special Collections Finding Aids ***FABified-EAD*** TEST Repository
 
 This is a **test** repository that contains `FABified` versions of ArchivesSpace-exported EADs.  
